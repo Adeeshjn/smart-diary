@@ -2,3 +2,5 @@
 /librarydb_borrowing.sql
 /librarydb_users.sql
 /queries.xlsx
+/backend/node_modules
+/smart-diary/node_modules
